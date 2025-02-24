@@ -12,4 +12,4 @@ Primeira página criada com foco no Github, desenvolvido nas aulas da disciplina
 * Github
 
 ## Autor
-[Guilherme Viana de Souza]()
+[Guilherme Viana de Souza](www.linkedin.com/in/guilherme-viana-a2a671320)
